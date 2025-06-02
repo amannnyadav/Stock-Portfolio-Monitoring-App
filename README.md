@@ -182,7 +182,7 @@ Stock-Portfolio-Monitoring-App/
 | Name                   | Role & Contributions                     |
 | ---------------------- | ---------------------------------------- |
 | **A.V. Aswin**         | Project Lead, Contributed to all modules |
-| **Aman Yadav**         | Contributed to all modules               |
+| **Aman**         | Contributed to all modules               |
 | **A Fazil Mohammad**   | Contributed to all modules               |
 | **Harshitha**          | Contributed to all modules               |
 | **Siddharta Banerjee** | Contributed to all modules               |
